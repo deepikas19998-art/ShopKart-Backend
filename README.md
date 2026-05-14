@@ -21,3 +21,7 @@ ShopKart Backend is a RESTful API for an e-commerce web application.
 git clone https://github.com/deepikas19998-art/ShopKart-Backend.git
 cd ShopKart-Backend
 npm install
+
+## 🔗 Backend API
+
+https://shopkart-backend-42sv.onrender.com/api
